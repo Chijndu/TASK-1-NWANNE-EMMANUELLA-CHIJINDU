@@ -32,6 +32,8 @@ The final empathy map provides a clear overview of the user experience, highligh
 Screenshots
 
 Below are screenshots of the completed empathy map:
+<img width="3452" height="1664" alt="UX research" src="https://github.com/user-attachments/assets/b872af9e-1dd0-49bc-a56c-bc9a1ab9314d" />
+
 
 <img width="695" height="486" alt="Screenshot 2026-06-03 130951" src="https://github.com/user-attachments/assets/33d72811-ab6a-4486-a835-7cee17da1efd" />
 
